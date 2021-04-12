@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:http/http.dart' as http;
 
-const apikey = 'BC929D53-6E80-4515-8A27-B65C52642092';
+const apikey = ;//<YourApiKey>
 
 class CoinAPI{
   Future<double> getExchangePrice(String cryptoCurrency, String currency) async {
