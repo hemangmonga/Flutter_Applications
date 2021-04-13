@@ -2,6 +2,8 @@
 
 We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
+![Alt Text](https://github.com/hemangmonga/Flutter_Applications/blob/master/dice/images/dicee-demo.gif)
+
 * [Expanded Class](https://docs.flutter.io/flutter/widgets/Expanded-class.html)
 * [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
 * [FlatButton Documentation](https://docs.flutter.io/flutter/material/FlatButton-class.html)
