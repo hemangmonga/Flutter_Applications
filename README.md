@@ -26,11 +26,11 @@
 * [Run code snippets on DartPad](https://dartpad.dartlang.org/)
 * [Dart Math Library](https://api.dartlang.org/stable/2.2.0/dart-math/dart-math-library.html)
 * [Random Class](https://api.dartlang.org/stable/2.2.0/dart-math/Random-class.html)
-* [Dicee Completed Project](https://github.com/londonappbrewery/Dicee-Flutter-Completed)
+* [Dicee Completed Project](https://github.com/hemangmonga/Flutter_Applications/tree/master/dice)
 
 ## Magic 8 Ball
 
-* [Magic 8 Ball Stub](https://github.com/londonappbrewery/magic-8-ball-flutter)
+* [Magic 8 Ball Stub](https://github.com/hemangmonga/Flutter_Applications/tree/master/magic_8ball)
 
 ## Xylophone - Using Flutter and Dart Packages to Speed Up Development
 
@@ -47,11 +47,11 @@
 * [Dart List Language Tour](https://www.dartlang.org/guides/libraries/library-tour#collections)
 * [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
 * [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
-* [Quizzler Solution & Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
+* [Quizzler Solution & Completed Project](https://github.com/hemangmonga/Flutter_Applications/tree/master/quizzler)
 
 ## Destini - Story app with different endings
 
-* [Destini Solution & Completed Project](https://github.com/londonappbrewery/destini-challenge-completed/)
+* [Destini Solution & Completed Project](https://github.com/hemangmonga/Flutter_Applications/tree/master/destini)
 
 ## BMI Calculator
 
@@ -76,7 +76,7 @@
 * [LAB Navigation Demo](https://github.com/londonappbrewery/Navigation-Flutter-Demo)
 * [Navigate with Named Routes](https://flutter.dev/docs/cookbook/navigation/named-routes)
 * [Definition of the Body Mass Index (BMI)](https://en.wikipedia.org/wiki/Body_mass_index)
-* [BMI Completed Project](https://github.com/londonappbrewery/BMI-Calculator-Completed)
+* [BMI Completed Project](https://github.com/hemangmonga/Flutter_Applications/tree/master/bmi_calculator)
 
 ## Clima - Powering Flutter App with Live Weather Web Data
 
@@ -99,7 +99,7 @@
 * [OpenWeatherMap Weather Conditions](https://openweathermap.org/weather-conditions)
 * [Create and Style a TextField](https://flutter.dev/docs/cookbook/forms/text-input)
 * [The TextField Class](https://docs.flutter.io/flutter/material/TextField-class.html)
-* [Clima Completed Project](https://github.com/londonappbrewery/Clima-Flutter-Completed)
+* [Clima Completed Project](https://github.com/hemangmonga/Flutter_Applications/tree/master/clima)
 
 ## Bitcoin Ticker - App for currency conversion to cryptocurrency
 
@@ -114,7 +114,7 @@
 * [Bronze Challenge Start Code](https://github.com/londonappbrewery/bitcoin-flutter-challenge-start)
 * [Silver Challenge Starter Code](https://github.com/londonappbrewery/bitcoin-flutter-silver-start)
 * [Gold Challenge Starter Code](https://github.com/londonappbrewery/bitcoin-flutter-gold-start)
-* [Bitcoin Completed Project](https://github.com/londonappbrewery/bitcoin-flutter-final)
+* [Bitcoin Completed Project](https://github.com/hemangmonga/Flutter_Applications/tree/master/bitcoin_converter)
 
 ## Flash Chat - Flutter x Firebase Cloud Firestore
 
@@ -141,4 +141,4 @@
 * [AsyncSnapshot Class Documentation](https://docs.flutter.io/flutter/widgets/AsyncSnapshot-class.html)
 * [ListView Class Documentation](https://docs.flutter.io/flutter/widgets/ListView-class.html)
 * [Guide to the Firestore Security Rules](https://firebase.google.com/docs/firestore/security/get-started)
-* [Flash Chat Completed Project](https://github.com/londonappbrewery/Flash-Chat-Flutter-Complete)
+* [Flash Chat Completed Project](https://github.com/hemangmonga/Flutter_Applications/tree/master/chat_app)
