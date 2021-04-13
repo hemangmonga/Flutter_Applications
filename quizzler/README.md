@@ -1,16 +1,8 @@
 # quizzler
 
-A new Flutter application.
+Quizzler - A Story app which has multiple endings depending upon the options the user chooses.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* [List Gist for DartPad List Practice](https://gist.github.com/angelabauer/f9db1b64cf51623d42b1ac1722bd016c)
+* [Dart List Language Tour](https://www.dartlang.org/guides/libraries/library-tour#collections)
+* [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
+* [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
