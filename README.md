@@ -30,7 +30,7 @@
 
 ## Magic 8 Ball
 
-* [Magic 8 Ball Stub](https://github.com/hemangmonga/Flutter_Applications/tree/master/magic_8ball)
+* [Magic 8 Ball Completed Project](https://github.com/hemangmonga/Flutter_Applications/tree/master/magic_8ball)
 
 ## Xylophone - Using Flutter and Dart Packages to Speed Up Development
 
